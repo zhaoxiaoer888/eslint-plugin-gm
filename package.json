@@ -1,0 +1,20 @@
+{
+  "name": "eslint-plugin-gm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gmfe/eslint-plugin-gm.git"
+  },
+  "devDependencies": {
+    "eslint": "^2.8.0",
+    "eslint-plugin-react": "^4.2.3",
+    "babel-eslint": "^6.0.3"
+  },
+  "author": "zhangsiqi",
+  "license": "ISC"
+}

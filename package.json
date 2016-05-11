@@ -1,6 +1,6 @@
 {
   "name": "eslint-plugin-gm",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "配置中使用了[eslint推荐配置](http://eslint.org/docs/rules/)",
   "main": "index.js",
   "scripts": {
@@ -10,10 +10,10 @@
     "type": "git",
     "url": "git+https://github.com/gmfe/eslint-plugin-gm.git"
   },
-  "devDependencies": {
+  "dependencies": {
     "eslint": "^2.8.0",
     "eslint-plugin-react": "^4.2.3",
-    "babel-eslint": "^6.0.3"
+    "babel-eslint": "^6.0.4"
   },
   "author": "zhangsiqi",
   "license": "ISC",

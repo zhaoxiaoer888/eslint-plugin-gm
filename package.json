@@ -1,7 +1,7 @@
 {
   "name": "eslint-plugin-gm",
   "version": "1.0.0",
-  "description": "",
+  "description": "配置中使用了[eslint推荐配置](http://eslint.org/docs/rules/)",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -16,5 +16,9 @@
     "babel-eslint": "^6.0.3"
   },
   "author": "zhangsiqi",
-  "license": "ISC"
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gmfe/eslint-plugin-gm/issues"
+  },
+  "homepage": "https://github.com/gmfe/eslint-plugin-gm#readme"
 }

@@ -28,11 +28,11 @@ rule配置http://eslint.org/docs/user-guide/configuring
 * "error" or 2 - turn the rule on as an error (exit code is 1 when triggered)
 
 忽略单行检查
-
 `// eslint-disable-line`
 
 忽略多行检查
-```/*eslint-disable */
+```
+/*eslint-disable */
      mutil line code
 /*eslint-enable */
 ```

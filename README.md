@@ -6,7 +6,7 @@
 
 ###使用方法
 
-`npm install -g eslint-plugin-gm`
+`npm install -g eslint eslint-plugin-react eslint-plugin-gm`
 
 项目中新建.eslintrc.js
 ```

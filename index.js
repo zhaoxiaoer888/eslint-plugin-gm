@@ -25,11 +25,11 @@ module.exports = {
             "rules": {
                 "no-console": 0,
                 "semi": 2,
+                "eqeqeq": 2,
 
                 // react 配置
                 "react/prop-types": 0, // 检查react props的属性是否在propTypes声明
-
-                "eqeqeq": 2
+                "react/no-string-refs": 2
             }
         }
     }

@@ -26,6 +26,7 @@ module.exports = {
                 "no-console": 0,
                 "semi": 2,
                 "eqeqeq": 2,
+                "comma-dangle": 2, // 多余的逗号
 
                 // react 配置
                 "react/prop-types": 0, // 检查react props的属性是否在propTypes声明

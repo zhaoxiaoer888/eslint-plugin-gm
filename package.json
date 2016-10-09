@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "publishpatch": "git add --all; git commit -m 'c-$1'; git pull; npm version patch; git push origin master:master; npm publish --registry='https://registry.npmjs.org'; cnpm sync eslint-plugin-gm; npm version"
+    "publishpatch": "git add --all; git commit -m 'c'; git pull; npm version patch; git push origin master:master; npm publish --registry='https://registry.npmjs.org'; cnpm sync eslint-plugin-gm; npm version"
   },
   "repository": {
     "type": "git",

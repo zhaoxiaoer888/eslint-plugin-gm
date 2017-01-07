@@ -4,10 +4,12 @@ module.exports = {
     configs: {
         recommended: {
             "env": {
-                "browser": true,
                 "commonjs": true,
                 "es6": true,
                 "node": true
+            },
+            "globals": {
+                "window": false
             },
             "parserOptions": {
                 "ecmaVersion": 7,

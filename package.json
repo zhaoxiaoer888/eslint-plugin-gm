@@ -1,6 +1,6 @@
 {
   "name": "eslint-plugin-gm",
-  "version": "1.1.5",
+  "version": "1.1.6",
   "description": "配置中使用了[eslint推荐配置](http://eslint.org/docs/rules/)",
   "main": "index.js",
   "scripts": {
